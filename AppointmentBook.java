@@ -40,8 +40,8 @@ public class AppointmentBook {
         if(freeBlock > -1){
             reserveBlock(i, freeBlock, duration);
             return true;
-        }
-    return false;}
-    }    }
+        }}
+        return false;}
+    }    
 
     
